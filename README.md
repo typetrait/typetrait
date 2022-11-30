@@ -8,7 +8,7 @@ I love building interesting, technical projects and learning more about software
 - 💻 Operating Systems
 - 🔐 Cybersecurity
  
-🔍 Currently researching microservices and cloud-based architecture but always working on all kinds of projects, most of which are hosted here on GitHub.
+🔍 Currently learning more about Rust but always working on all kinds of projects, most of which are hosted here on GitHub.
 
 ### 🔮 Languages and Tools
 
