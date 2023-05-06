@@ -6,9 +6,9 @@ I love building interesting, technical projects and learning more about software
 
 - 🛠️ Software Engineering
 - 💻 Operating Systems
-- 🔐 Cybersecurity
+- 🔬 Reverse Engineering
  
-🔍 Currently learning more about Rust but always working on all kinds of projects, most of which are hosted here on GitHub.
+🔍 Currently learning more about Rust and working on multiple projects, most of which are hosted here on GitHub.
 
 ### 🔮 Languages and Tools
 
