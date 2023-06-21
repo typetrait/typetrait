@@ -1,6 +1,6 @@
 ### Hello there, I'm Bruno 👋
 
-I love building interesting, technical projects and learning more about software development and tech in general. Writing clean and elegant code is something I always aim for. Having been exposed to computers from very early on in my life, I have always been connected to and identified with the digital world.
+I enjoy building interesting, technical projects and learning more about computers, software development and tech in general. Writing elegant code is something I strive for.
 
 ### ⚗️ Main interests
 
@@ -8,7 +8,7 @@ I love building interesting, technical projects and learning more about software
 - 💻 Operating Systems
 - 🔬 Reverse Engineering
  
-🔍 Currently learning more about Rust and working on multiple projects, most of which are hosted here on GitHub.
+🔍 Currently fiddling with Rust and Lua, and working with C# on multiple projects, most of which are hosted here on GitHub.
 
 ### 🔮 Languages and Tools
 
