@@ -8,7 +8,7 @@ I enjoy building interesting, technical projects and learning more about compute
 - 💻 Operating Systems
 - 🔬 Reverse Engineering
  
-🔍 Currently fiddling with Rust and Lua, and working with C# on multiple projects, most of which are hosted here on GitHub.
+🔍 Currently working with C# and other languages on multiple projects, most of which are hosted here on GitHub.
 
 ### 🔮 Languages and Tools
 
