@@ -8,7 +8,7 @@ I enjoy building interesting, technical projects and learning more about compute
 - 💻 Operating Systems
 - 🔬 Reverse Engineering
  
-🔍 Currently learning and playing around with Go <img class="img" height="32px" src="https://raw.githubusercontent.com/egonelbre/gophers/63b1f5a9f334f9e23735c6e09ac003479ffe5df5/vector/superhero/standing.svg"/>
+🔍 Currently working and experimenting on multiple different projects
 
 ### 🔮 Languages and Tools
 
