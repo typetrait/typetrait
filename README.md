@@ -1,6 +1,8 @@
 ### Hello there, I'm Bruno 👋
 
-I enjoy building interesting, technical projects and learning more about computers, software development and tech in general. Writing elegant code is something I strive for.
+I enjoy building interesting, technical projects and learning more about computers, software development and tech in general.
+
+Writing elegant solutions and code is something I always strive for.
 
 ### ⚗️ Main interests
 
