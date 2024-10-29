@@ -2,7 +2,7 @@
 
 I enjoy building interesting, technical projects and learning more about computers, software development and tech in general.
 
-Writing elegant solutions and code is something I always strive for.
+Coming up with elegant solutions and writing good code is something I always strive for.
 
 ### ⚗️ Main interests
 
