@@ -1,7 +1,9 @@
 ### Hello there, I'm Bruno 👋
 
 I enjoy building technical projects that solve real world problems.
+
 I also love learning more about computers, software development and tech in general.
+
 Coming up with elegant solutions and writing great code is something I always strive for.
 
 ### ⚗️ Main interests
